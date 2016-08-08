@@ -1,0 +1,27 @@
+_repo: The-Communes-of-Lombardy-from-the-VI.-to-the-X.-CenturyOf-Municipal-Unity-Among-the-Lombard-C__12162
+_version: 0.0.1
+alternative_title: Communes of Lombardy from the 6th to the 10th Century
+creator:
+  author:
+    agent_name: Williams, William Klapp
+    deathdate: 1897
+    gutenberg_agent_id: '4244'
+    url: http://www.gutenberg.org/2009/agents/4244
+description: Communes of Lombardy from the Sixth to the Tenth Century
+gutenberg_issued: '2004-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12162'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Lombardy (Italy) -- History'
+- !lcsh 'Local government -- Italy -- Lombardy'
+- !lcc 'DG'
+- GITenberg
+title: "The Communes of Lombardy from the VI. to the X. Century\r\nAn Investigation\
+  \ of the Causes Which Led to the Development of Municipal Unity Among the Lombard\
+  \ Communes."
+url: http://www.gutenberg.org/ebooks/12162
